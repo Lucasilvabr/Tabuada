@@ -11,7 +11,7 @@ using namespace std;
 
         for (int i = 1; i<=10; i++) {
     
-        cout << "O  resultado e: " <<  n << " x " << 1 << " = " << i*n << endl;
+        cout << "O  resultado e: " <<  n << " x " << i << " = " << i*n << endl;
 
     }
 
